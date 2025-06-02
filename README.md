@@ -17,4 +17,5 @@
 
 ## 🙌 Show Some Love
 💫 Found this useful? Smash that star!
+
 🐞 Something broke? File an issue and say: “yo this broke lol” → Open an Issue
