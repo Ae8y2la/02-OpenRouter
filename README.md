@@ -13,6 +13,7 @@
 ## 🎯 Example
 
 **You: What’s the capital of Italy?**
+
 **Bot: The capital of Italy is Rome 🇮🇹**
 
 ## 🙌 Show Some Love
